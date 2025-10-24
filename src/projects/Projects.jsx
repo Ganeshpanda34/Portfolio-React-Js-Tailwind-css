@@ -15,9 +15,8 @@ const projectsData = [
     image: project1,
     description: 'A responsive and modern personal portfolio built from scratch to showcase my skills, projects, and professional journey.',
     tags: [
-      { name: 'HTML5', color: 'bg-blue-500' },
-      { name: 'CSS3', color: 'bg-red-500' },
-      { name: 'JavaScript', color: 'bg-yellow-400 text-black' },
+           { name: 'React Js', color: 'bg-sky-400' },
+      { name: 'Tailwind CSS', color: 'bg-teal-500' },
     ],
     liveUrl: '/',
     githubUrl: 'https://github.com/Ganeshpanda34/PORTFOLIO-NO-2.git',
